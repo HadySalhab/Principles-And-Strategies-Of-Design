@@ -8,11 +8,5 @@ public class Employee {
     private String address;
     private Date dateOfJoining;
 
-    public boolean isPromotionDueThisYear(){
 
-    }
-
-    public double calcIncomeTaxForCurrentYear(){
-
-    }
 }
