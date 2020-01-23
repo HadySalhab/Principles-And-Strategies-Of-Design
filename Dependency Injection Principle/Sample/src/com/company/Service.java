@@ -12,7 +12,13 @@ class ServiceA implements  Service{
 }
 
 class Client {
-    private Service myService;
+    //setter Injection
+    public void setMyService(Service myService) {
+        this.myService = myService;
+    }
+
+    //design to an interface not to an implementation
+    private Service myService; //dependency Inversion, we are relying on top level class
 
     //Constructor Injection
     public  Client(Service service){
