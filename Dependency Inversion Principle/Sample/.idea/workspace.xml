@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="112a1a06-28a1-4e01-829f-928478fe4149" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/PasswordReminder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Interface Segregation Principle/Sample2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Interface Segregation Principle/Sample2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PasswordReminder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PasswordReminder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/PasswordReminder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="95" selection-start-line="5" selection-start-column="95" selection-end-line="5" selection-end-column="95" />
+            <state relative-caret-position="270">
+              <caret line="15" column="114" selection-start-line="15" selection-start-column="114" selection-end-line="15" selection-end-column="114" />
             </state>
           </provider>
         </entry>
@@ -63,11 +62,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1928" />
-    <option name="y" value="-3" />
+    <option name="y" value="143" />
     <option name="width" value="1260" />
-    <option name="height" value="1017" />
+    <option name="height" value="758" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,6 +99,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,7 +141,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1928" y="-3" width="1260" height="1017" extended-state="0" />
+    <frame x="1672" y="-11" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -147,7 +149,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34083334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -179,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/PasswordReminder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="95" selection-start-line="5" selection-start-column="95" selection-end-line="5" selection-end-column="95" />
+        <state relative-caret-position="270">
+          <caret line="15" column="114" selection-start-line="15" selection-start-column="114" selection-end-line="15" selection-end-column="114" />
         </state>
       </provider>
     </entry>
